@@ -7,8 +7,8 @@ I am passionate about electronics, communications and aviation engineering. I'm 
 💻 HTML <BR>
 📱 CSS <br>
 📳 React JS | Node Js |
-bootstrap
-visualstudio
+Bootstrap
+Visualstudio
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,visualstudio)](https://skillicons.dev)
 
