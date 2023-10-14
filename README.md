@@ -7,10 +7,8 @@
 📳 React JS | Node Js |
 
 ### Tasks
-Personal Portfolio.
-
-iPhone Calculator.
-
+- Personal Portfolio.
+- iPhone Calculator.
 - 🔭 I’m currently working on a social impact project called LocaLink
 - 🌱 I’m currently learning Java Script
 - 👯 I’m looking to collaborate on open source software, Social Impact Project, Unmanned Aerial Vehicles software
