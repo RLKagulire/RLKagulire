@@ -1,6 +1,7 @@
 ### Hello, I am Ronald Kagulire
 
 **A Full stack developer**
+
 I am passionate about electronics, communications and aviation Engineering. I'm currently learning Software Development at Kanzu Code Foundation.
 
 ### Skills and Experience
