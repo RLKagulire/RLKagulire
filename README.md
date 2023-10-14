@@ -1,11 +1,14 @@
 ### Hello, I am Ronald Kagulire
 
 **A Full stack developer**
+I am passionate about electronics, communications and aviation engineering. I'm currently learning Front-end Development at Kanzu Code Foundation.
 
 ### Skills and Experience
 💻 HTML <BR>
 📱 CSS <br>
 📳 React JS | Node Js |
+bootstrap
+visualstudio
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,visualstudio)](https://skillicons.dev)
 
