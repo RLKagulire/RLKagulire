@@ -7,14 +7,14 @@ I am passionate about electronics, communications and aviation engineering. I'm 
 💻 HTML <BR>
 📱 CSS <br>
 📳 React JS | Node Js |
-Bootstrap
-Visualstudio
+Bootstrap|
+Visualstudio|
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,visualstudio)](https://skillicons.dev)
 
 ### Tasks
-- Personal Portfolio.
-- iPhone Calculator.
+- Personal Portfolio
+- iPhone Calculator
 - 🔭 I’m currently working on a social impact project called LocaLink
 - 🌱 I’m currently learning Java Script
 - 👯 I’m looking to collaborate on open source software, Social Impact Project, Unmanned Aerial Vehicles software
