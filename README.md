@@ -1,11 +1,13 @@
 ### Hello, I am Ronald Kagulire
 
-**A Full stack developer passionate about aviation**
+**A Full stack developer**
 ### Skills and Experience
 💻 HTML <BR>
 📱 CSS <br>
 📳 React JS | Node Js |
 
+# Skills and Experience
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,github,visualstudio)](https://skillicons.dev)
 ### Tasks
 - Personal Portfolio.
 - iPhone Calculator.
