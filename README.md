@@ -1,14 +1,25 @@
-### Hi there https://www.smileysapp.com/gif-emoji/waving-hi.gif
+### Hello, I am Ronald Kagulire
 
-<!--
-**RLKagulire/RLKagulire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Full stack developer passionate about aviation**
+### Skills and Experience
+💻 HTML <BR>
+📱 CSS <br>
+📳 React JS | Node Js |
 
-Here are some ideas to get you started:
+### Tasks
+Personal Portfolio
+iPhone Calculator
 
-- 🔭 I’m currently working on a social impact project called LocaLink
+<a href="https://github.com/RLKagulire/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RLKagulire&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="https://github.com/RLKagulire/RLKagulire/edit/main/README.md"/></a>
+
+### Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/RLKagulire) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/RLKagulire) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ronnie-kagulire-6684b440/))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='30'>](https://www.youtube.com/@ronniekagulire995))
+🔭 I’m currently working on a social impact project called LocaLink
 - 🌱 I’m currently learning Java Script
-- 👯 I’m looking to collaborate on Social Impact Projects
+- 👯 I’m looking to collaborate on open source software, Unmanned Aerial Vehicles software, 
 - 💬 Ask me about HTML, CSS, VERSION CONTROL and Unmanned Aerial Vehicles
-- 📫 How to reach me: 
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
 -->
