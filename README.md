@@ -1,6 +1,6 @@
 ### Hello, I am Ronald Kagulire
 
-**A Full-Stack Developer**
+**A Front-End Developer**
 
 
 I am passionate about electronics, communications and aviation Engineering. I'm currently learning Software Development at Kanzu Code Foundation.
@@ -18,9 +18,9 @@ Visualstudio|
 - Personal Portfolio
 - iPhone Calculator
 - 🔭 I’m currently working on a social impact project called LocaLink
-- 🌱 I’m currently learning Java Script
-- 👯 I’m looking to collaborate on open source software, Social Impact Project, Unmanned Aerial Vehicles software
-- 💬 Ask me about HTML, CSS, VERSION CONTROL and Unmanned Aerial Vehicles
+- 🌱 I’m currently learning React JS
+- 👯 I’m looking to collaborate on open source software, Social Impact Projects and Aviation/ Unmanned Aerial Vehicles software development
+- 💬 Ask me about HTML, CSS, JavaScript, Version Control and Unmanned Aerial Vehicles
 
 <a href="https://github.com/RLKagulire/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RLKagulire&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="https://github.com/RLKagulire/RLKagulire/edit/main/README.md"/></a>
 
